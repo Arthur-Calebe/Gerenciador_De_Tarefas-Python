@@ -4,13 +4,13 @@ Este é um projeto acadêmico de um Gerenciador de Lista de Tarefas (To-Do List)
 O programa roda diretamente no console (terminal) e permite ao usuário gerenciar suas tarefas diárias, que ficam salvas mesmo após o programa ser fechado.
 
 ## ✨ Funcionalidades
-Adicionar Tarefas: Permite ao usuário inserir novas tarefas.
+*Adicionar Tarefas: Permite ao usuário inserir novas tarefas.*
 
-*Listar Tarefas:* Exibe todas as tarefas pendentes, numeradas.
+**Listar Tarefas:* Exibe todas as tarefas pendentes, numeradas.*
 
-*Remover Tarefas:* Permite ao usuário remover uma tarefa da lista pelo seu número.
+**Remover Tarefas:* Permite ao usuário remover uma tarefa da lista pelo seu número.*
 
-*Persistência de Dados:* As tarefas são salvas automaticamente em um arquivo minhas_tarefas.txt e recarregadas ao iniciar o programa.
+**Persistência de Dados:* As tarefas são salvas automaticamente em um arquivo minhas_tarefas.txt e recarregadas ao iniciar o programa.*
 
 ## 🚀 Conceitos Aplicados
 
